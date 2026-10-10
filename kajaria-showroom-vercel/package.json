@@ -1,0 +1,14 @@
+{
+  "name": "kajaria-showroom-vercel",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SEO-friendly tile showroom website with Vercel serverless APIs and Supabase enquiry storage.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "npx vercel dev",
+    "check": "node --check lib/api.js && node --check api/health.js && node --check api/site-config.js && node --check api/catalog.js && node --check api/enquiries.js && node --check api/admin/login.js && node --check api/admin/logout.js && node --check api/admin/leads/index.js && node --check api/admin/leads/[id].js && node --check public/assets/site.js && node --check public/assets/admin.js && node --check scripts/build.js"
+  }
+}

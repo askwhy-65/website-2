@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bathroom",
+    "name": "Bathroom tiles",
+    "category": "Bathroom",
+    "image": "https://images.unsplash.com/photo-1771929662486-f793e08f0f16?auto=format&fit=crop&w=1800&q=85",
+    "description": "Explore matte, textured and anti-slip finishes for wet areas.",
+    "tags": [
+      "bathroom",
+      "anti-slip",
+      "matte"
+    ]
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen tiles",
+    "category": "Kitchen",
+    "image": "https://images.unsplash.com/photo-1772567732989-1ddce59230e4?auto=format&fit=crop&w=1800&q=85",
+    "description": "Practical wall and floor finishes for busy kitchens.",
+    "tags": [
+      "kitchen",
+      "wall",
+      "easy-clean"
+    ]
+  },
+  {
+    "id": "living",
+    "name": "Living room tiles",
+    "category": "Living room",
+    "image": "https://images.unsplash.com/photo-1708540084677-dc5838b37627?auto=format&fit=crop&w=2000&q=85",
+    "description": "Large-format, stone-look and polished styles for open spaces.",
+    "tags": [
+      "living room",
+      "vitrified",
+      "large format"
+    ]
+  },
+  {
+    "id": "bedroom",
+    "name": "Bedroom tiles",
+    "category": "Bedroom",
+    "image": "https://images.unsplash.com/photo-1765547090903-348b711f0eee?auto=format&fit=crop&w=1800&q=85",
+    "description": "Warm wood-look and soft matte designs for restful rooms.",
+    "tags": [
+      "bedroom",
+      "wood look",
+      "matte"
+    ]
+  },
+  {
+    "id": "outdoor",
+    "name": "Outdoor & parking",
+    "category": "Outdoor",
+    "image": "https://images.unsplash.com/photo-1697421472608-84e71a8a24b1?auto=format&fit=crop&w=1800&q=85",
+    "description": "Ask about textured surfaces suited to exterior applications.",
+    "tags": [
+      "outdoor",
+      "parking",
+      "textured"
+    ]
+  },
+  {
+    "id": "commercial",
+    "name": "Commercial flooring",
+    "category": "Commercial",
+    "image": "https://images.unsplash.com/photo-1772001936267-b6058748eff4?auto=format&fit=crop&w=1800&q=85",
+    "description": "Compare durable options for offices, retail and project spaces.",
+    "tags": [
+      "commercial",
+      "office",
+      "flooring"
+    ]
+  },
+  {
+    "id": "marble-look",
+    "name": "Marble-look collections",
+    "category": "Design style",
+    "image": "https://images.unsplash.com/photo-1756079664354-34944e001f6d?auto=format&fit=crop&w=1800&q=85",
+    "description": "A timeless marble-inspired look in easy-to-maintain tile formats.",
+    "tags": [
+      "marble look",
+      "statuario",
+      "premium"
+    ]
+  },
+  {
+    "id": "glossy",
+    "name": "Glossy & seamless looks",
+    "category": "Design style",
+    "image": "https://images.unsplash.com/photo-1771287490819-324afcc469fc?auto=format&fit=crop&w=1800&q=85",
+    "description": "Bright, reflective finishes for a clean, contemporary feel.",
+    "tags": [
+      "glossy",
+      "polished",
+      "modern"
+    ]
+  },
+  {
+    "id": "wood-look",
+    "name": "Wood-look vitrified",
+    "category": "Design style",
+    "image": "https://images.unsplash.com/photo-1662557499872-8920a31e2f32?auto=format&fit=crop&w=1800&q=85",
+    "description": "Bring the warmth of timber-inspired design to your interiors.",
+    "tags": [
+      "wood look",
+      "vitrified",
+      "natural"
+    ]
+  },
+  {
+    "id": "large-format",
+    "name": "Large-format vitrified",
+    "category": "Design style",
+    "image": "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?auto=format&fit=crop&w=1800&q=85",
+    "description": "Explore spacious visual lines with fewer visible grout joints.",
+    "tags": [
+      "large format",
+      "vitrified",
+      "living"
+    ]
+  }
+]
